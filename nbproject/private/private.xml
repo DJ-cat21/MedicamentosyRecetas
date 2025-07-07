@@ -3,19 +3,14 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/C:/Users/USHER25/Documents/NetBeansProjects/MedicamentosyRecetas/src/modelo/Auditoria_Pac.java</file>
             <file>file:/C:/Users/USHER25/Documents/NetBeansProjects/MedicamentosyRecetas/src/Vistas/Conf_Solisitud.java</file>
-            <file>file:/C:/Users/USHER25/Documents/NetBeansProjects/MedicamentosyRecetas/src/Controlador/Controlador_Solicitud.java</file>
-            <file>file:/C:/Users/USHER25/Documents/NetBeansProjects/MedicamentosyRecetas/src/modelo/solicituddemedicamento.java</file>
-            <file>file:/C:/Users/USHER25/Documents/NetBeansProjects/MedicamentosyRecetas/src/BD/Coneccion.java</file>
-            <file>file:/C:/Users/USHER25/Documents/NetBeansProjects/MedicamentosyRecetas/src/modelo/SMedicamento.java</file>
-            <file>file:/C:/Users/USHER25/Documents/NetBeansProjects/MedicamentosyRecetas/src/modelo/PacienteDAO.java</file>
-            <file>file:/C:/Users/USHER25/Documents/NetBeansProjects/MedicamentosyRecetas/src/modelo/Pacientes.java</file>
             <file>file:/C:/Users/USHER25/Documents/NetBeansProjects/MedicamentosyRecetas/src/Vistas/Gest_Pacientes.java</file>
             <file>file:/C:/Users/USHER25/Documents/NetBeansProjects/MedicamentosyRecetas/src/Vistas/Solicitud_Receta.java</file>
-            <file>file:/C:/Users/USHER25/Documents/NetBeansProjects/MedicamentosyRecetas/src/modelo/solicitudMedicDAO.java</file>
-            <file>file:/C:/Users/USHER25/Documents/NetBeansProjects/MedicamentosyRecetas/src/Controlador/Controlador_Medicamento.java</file>
-            <file>file:/C:/Users/USHER25/Documents/NetBeansProjects/MedicamentosyRecetas/src/Controlador/Controlador_Paciente.java</file>
-            <file>file:/C:/Users/USHER25/Documents/NetBeansProjects/MedicamentosyRecetas/src/modelo/MedicamentoDAO.java</file>
+            <file>file:/C:/Users/USHER25/Documents/NetBeansProjects/MedicamentosyRecetas/src/modelo/Auditoria_PacDAO.java</file>
+            <file>file:/C:/Users/USHER25/Documents/NetBeansProjects/MedicamentosyRecetas/src/Vistas/Auditoria_Pacientes.java</file>
+            <file>file:/C:/Users/USHER25/Documents/NetBeansProjects/MedicamentosyRecetas/src/modelo/PacienteDAO.java</file>
+            <file>file:/C:/Users/USHER25/Documents/NetBeansProjects/MedicamentosyRecetas/src/modelo/Pacientes.java</file>
             <file>file:/C:/Users/USHER25/Documents/NetBeansProjects/MedicamentosyRecetas/src/Vistas/Menu.java</file>
         </group>
     </open-files>
